@@ -17,9 +17,10 @@
 ## :sassy_man:  About me
 - :school: BTECH | CSE | FINAL YEAR | WCE, SANGLI
 - :technologist: Skills : C, CPP, Javascript, Nodejs, Expressjs, Reactjs, Vuejs, MongoDB, Mysql.
-<!-- - :computer:  -->
 - :student: SSC : 89% | HSC : 88%
 - :thinking: I’m currently open for Software Developer Engineer Opportunity this is [MY RESUME](https://drive.google.com/file/d/1W6tgfVspLOrC6_e5I7GytOph42vtM7Ua/view).
 - :nerd_face: Loves to Explore new Techs
+- <!-- - :computer:  -->
+
 
 <br>
