@@ -15,7 +15,7 @@
  -->
 
 ## :sassy_man:  About me
-- :technologist: Skills : C, CPP, Javascript, Nodejs, Expressjs, Reactjs, Vuejs, MongoDB, Mysql.
+- :technologist: Skills : C, CPP, Java, Javascript, Python, Nodejs, Expressjs, Reactjs, Vuejs, MongoDB, Mysql.
 - :student: BTech : 7.4 | HSC : 88% | SSC : 89% 
 - :thinking: I’m currently open for Software Developer Engineer Opportunity this is [MY RESUME](https://drive.google.com/file/d/1W6tgfVspLOrC6_e5I7GytOph42vtM7Ua/view).
 - :nerd_face: Loves to Explore new Techs
