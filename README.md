@@ -16,8 +16,8 @@
 ## :sassy_man:  About me
 - 🧑‍🎓 I am a Software Engineer.
 - 🏫 BTech-Computer Science
-- 🧑‍💻 Skills : C, CPP, Javascript, Python, Java, Nodejs, Expressjs, Reactjs,Redux, Vuejs, Vuex, Jest MongoDB, Mysql, Postgres.
-- 🤔: I’m currently open for Software Developer Engineer Opportunity this is [MY RESUME](https://drive.google.com/file/d/1W6tgfVspLOrC6_e5I7GytOph42vtM7Ua/view).
+- 🧑‍💻 Skills : CPP, Javascript ,Nodejs, Express, Koa, React, Redux, Vuejs, Vuex, Jest, MongoDB, Mysql, Postgres, SQL, GIT , Docker
+- 🤔: I’m currently open for Software Developer Engineer Opportunity this is [MY RESUME](https://drive.google.com/file/d/1r_3i_dMfDR38XxC8p1NaiEfpYrHInuPc/view?usp=sharing).
 - 🙂: Loves to Explore new Techs
 
 
