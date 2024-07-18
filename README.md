@@ -17,7 +17,7 @@
 - 🧑‍🎓 I am a Software Engineer.
 - 🏫 BTech-Computer Science
 - 🧑‍💻 Skills : CPP, Javascript ,Nodejs, Express, Koa, React, Redux, Vuejs, Vuex, Jest, MongoDB, Mysql, Postgres, SQL, GIT , Docker
-- 🤔: I’m currently open for Software Developer Engineer Opportunity this is [MY RESUME](https://drive.google.com/file/d/1r_3i_dMfDR38XxC8p1NaiEfpYrHInuPc/view?usp=sharing).
+- 🤔: I’m currently open for Software Developer Engineer Opportunity this is [MY RESUME](https://drive.google.com/file/d/1Ns6HsSySR_6d93xndrCuO85qcelS_peE/view?usp=sharing).
 - 🙂: Loves to Explore new Techs
 
 
